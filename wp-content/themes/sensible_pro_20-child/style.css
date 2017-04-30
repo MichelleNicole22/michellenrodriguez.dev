@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Sensible Pro 2.0 Child
+ Theme URI:    http://michellenrodriguez.com
+ Description:  Custom child theme of Sensible Pro 2.0 made for me
+ Author:       Michelle N. Rodriguez
+ Author URI:   http://michellenrodriguez.com
+ Template:     sensible_pro_2.0
+ Version:      1.0.0
+ Text Domain:  sensible_pro_2.0
+*/
+/* line 12, sass/style.scss */
+.blog-archive article {
+  display: inline-block;
+  margin-right: 1.3rem;
+  width: 30%; }
+
+/* line 20, sass/style.scss */
+.blog-featured-img-header .entry-title {
+  display: none; }
