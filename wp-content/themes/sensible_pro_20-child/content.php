@@ -26,12 +26,12 @@
 	<?php endif; ?>
 
 
-
-	<!-- <footer class="entry-footer">
-   	<div class="entry-meta">
+<!--
+	<footer class="entry-footer">
+   		<div class="entry-meta">
 			<i class="fa fa-clock-o"></i><?php sensible_posted_on(); ?>
 		</div><!-- .entry-meta -->
 			<!--<?php sensible_entry_footer(); ?> -->
-	<!-- </footer><!-- .entry-footer -->
+<!--	</footer><!-- .entry-footer -->
 
 </article><!-- #post-## -->
