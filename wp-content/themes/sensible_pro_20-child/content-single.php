@@ -22,13 +22,13 @@
 				echo '<div class="port-project">'; ?>
 					<img id="port-img" src="<?php the_field( 'project_image' ); ?>" />
 					<?php
-					echo '<h1 class="port-title">' . get_field( 'project_title' ) . '</h1>';
-					echo '<p class="port-cont">Launch date: ' . $date->format('F j, Y') . '</p>';
-					echo '<p class="port-cont"> Is this project responsive? ' . get_field( 'responsive' ) . '</p>';
-					echo '<p class="port-cont">Description of this project: ' . get_field( 'description' ) . '</p>';
+					
+						echo '<h1 class="port-title">' . get_field( 'project_title' ) . '</h1>';
+						echo '<p class="port-cont">Launch date: ' . $date->format('F j, Y') . '</p>';
+						echo '<p class="port-cont"> Is this project responsive? ' . get_field( 'responsive' ) . '</p>';
+						echo '<p class="port-cont">Description of this project: ' . get_field( 'description' ) . '</p>';
+					
 				echo '</div>';
-			}
-
 		?>
 
 		<?php

@@ -18,6 +18,6 @@
 .blog-featured-img-header .entry-title {
   display: none; }
 
-/* line 27, sass/style.scss */
-#primary .content-area #main {
-  padding-left: 100px; }
+/* line 25, sass/style.scss */
+#port-img {
+  width: 50%; }
